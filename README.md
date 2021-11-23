@@ -1,4 +1,4 @@
-# App de prontuário e agendamento médico
+# App de teste de API rickandmortyapi
 
-Frontend comunicando com *REST* em *NodeJS* homonimo
+Frontend utilizando redux e easeui
 
